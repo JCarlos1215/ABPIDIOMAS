@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "abp",
+    "slug": "abp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logoabp.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/logoabp.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0EA3FF"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logoabp.png",
+        "backgroundColor": "#0EA3FF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/logoabp.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "65e11af2-902a-400b-81c8-cb5ac22bb339"
+      }
+    }
+  }
+}
